@@ -8,7 +8,7 @@ I am always studying and perfecting my skills so as not to be left behind.
 About me:
 <img align = "right" alt = "GIF" src = "dev2.gif" width = "400px" />
 - 👨🏽‍💻 Technology lover.
--: notebook: I like to learn new technologies.
+- 📘 I like to learn new technologies.
 - ⚡ Proactive.
 - 👫 Teamwork.
 - 💥 Dedicated
@@ -16,3 +16,16 @@ About me:
 - 💼 Seeking knowledge to evolve in my development career.
 - 💬 Ask me about.
 - 😄 I am available for immediate hiring. 
+
+### Hard Skills and Tools
+
+<p align="left"> 
+  <img src="https://icongr.am/devicon/javascript-original.svg?size=35&color=currentColor" alt="JavaScript"/> 
+  <img src="https://icongr.am/devicon/html5-original-wordmark.svg?size=40&color=currentColor" alt="HTML5"/> 
+  <img src="https://icongr.am/devicon/css3-original-wordmark.svg?size=40&color=currentColor" alt="CSS3"/> 
+  <img src="https://icongr.am/devicon/github-original-wordmark.svg?size=40&color=currentColor" alt="Github"/> 
+  <img src="https://icongr.am/devicon/php-original.svg?size=40&color=currentColor" alt="php"/> 
+  <img src="https://icongr.am/devicon/linkedin-original-wordmark.svg?size=40&color=currentColor" alt="linkedin"/>
+  <img src="https://icongr.am/devicon/linkedin-original-wordmark.svg?size=40&color=currentColor" alt="linkedin"/>
+  <img src="https://icongr.am/devicon/linkedin-original-wordmark.svg?size=40&color=currentColor" alt="linkedin"/>
+</p>
