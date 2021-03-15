@@ -26,6 +26,4 @@ About me:
   <img src="https://icongr.am/devicon/github-original-wordmark.svg?size=40&color=currentColor" alt="Github"/> 
   <img src="https://icongr.am/devicon/php-original.svg?size=40&color=currentColor" alt="php"/> 
   <img src="https://icongr.am/devicon/linkedin-original-wordmark.svg?size=40&color=currentColor" alt="linkedin"/>
-  <img src="https://flutter" alt="flutter"/>
-  <img src="https://dart" alt="dart.png"/>
 </p>
