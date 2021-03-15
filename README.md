@@ -20,13 +20,18 @@ About me:
 ### Hard Skills and Tools
 
 <p align="left"> 
+  <img src="https://img.icons8.com/color/48/000000/flutter.png" alt="flutter"/>
+  <img src="https://img.icons8.com/color/48/000000/dart.png" alt="dart"/>
   <img src="https://icongr.am/devicon/javascript-original.svg?size=40&color=currentColor" alt="JavaScript"/> 
   <img src="https://icongr.am/devicon/html5-original-wordmark.svg?size=48&color=currentColor" alt="HTML5"/> 
   <img src="https://icongr.am/devicon/css3-original-wordmark.svg?size=48&color=currentColor" alt="CSS3"/> 
   <img src="https://icongr.am/devicon/github-original-wordmark.svg?size=48&color=currentColor" alt="Github"/> 
   <img src="https://icongr.am/devicon/php-original.svg?size=48&color=currentColor" alt="php"/> 
   <img src="https://icongr.am/devicon/linkedin-original-wordmark.svg?size=48&color=currentColor" alt="linkedin"/>
-  <img src="https://img.icons8.com/color/48/000000/flutter.png" alt="flutter"/>
-  <img src="https://img.icons8.com/color/48/000000/dart.png" alt="dart"/>
 </p>
 
+### 📫 How to reach me
+
+- :iphone:  Phone: +55 37 988282685 [Whatsapp](https://api.whatsapp.com/send?phone=5537988282685&text=Hi%20there!)
+- 📧 Email: warleyzee@hotmail.com
+- 📧 Email: warleyzee@gmail.com
