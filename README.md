@@ -3,7 +3,7 @@
 
 Nice to meet you, I'm Warley Henrique.
 Passionate about technology since childhood. I have a degree in Information Systems from PUC Minas.
-I am always studying and perfecting my skills so as not to be left behind. 
+I am always studying and improving my skills so as not to be left behind. 
 
 About me:
 <img align = "right" alt = "GIF" src = "dev2.gif" width = "400px" />
