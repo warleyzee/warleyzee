@@ -34,7 +34,7 @@ About me:
 
 ### 📫 How to reach me
 
-- :iphone:  Phone: +55 37 988282685 [Whatsapp](https://api.whatsapp.com/send?phone=5537988282685&text=Hi%20there!)
+- :iphone:  Phone: +353 086 4560069 [Whatsapp](https://api.whatsapp.com/send?phone=5537988282685&text=Hi%20there!)
 - 📧 Email: warleyzee@hotmail.com
 - 📧 Email: warleyzee@gmail.com
 
