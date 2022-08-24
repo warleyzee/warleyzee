@@ -1,3 +1,8 @@
+![](https://komarev.com/ghpvc/?username=warleyzee&color=36b812)<br>
+![](https://img.shields.io/github/followers/warleyzee?style=social)<br>
+![](https://img.shields.io/github/stars/warleyzee?style=social)<br>
+
+
 # 👨🏽‍💻 Warley Henrique 👨🏽‍💻
 [![Linkedin: warley-henrique-82b0b3117](https://img.shields.io/badge/-Warley%20Henrique-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/warley-henrique-82b0b3117/)](https://www.linkedin.com/in/warley-henrique-82b0b3117/)
 
@@ -17,7 +22,7 @@ About me:
 - 💬 Ask me about.
 - 😄 I am available for immediate hiring. 
 
-### Hard Skills and Tools
+### 💼 Hard Skills and Tools
 
 <p align="left"> 
   <img src="https://img.icons8.com/color/48/000000/flutter.png" alt="flutter"/>
@@ -31,6 +36,10 @@ About me:
   <img src="https://icongr.am/devicon/php-original.svg?size=48&color=currentColor" alt="php"/> 
   <img src="https://icongr.am/devicon/linkedin-original-wordmark.svg?size=48&color=currentColor" alt="linkedin"/>
 </p>
+
+### ⭐ GitHub Stats 
+[![Dani El-Ayyass' github stats](https://github-readme-stats.vercel.app/api?username=warleyzee&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### 📫 How to reach me
 
