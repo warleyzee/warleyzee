@@ -43,7 +43,8 @@ About me:
 
 ### 📫 How to reach me
 
-- :iphone:  Phone: +353 086 4560069 [Whatsapp](https://api.whatsapp.com/send?phone=5537988282685&text=Hi%20there!)
+- :iphone:  Phone: +353 086 4560069 [Whatsapp](https://api.whatsapp.com/send?phone=3530864560069&text=Hi%20there!)
+- 👨 [LinkedIn](https://www.linkedin.com/in/dayyass/)
 - 📧 Email: warleyzee@hotmail.com
 - 📧 Email: warleyzee@gmail.com
 
