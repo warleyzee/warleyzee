@@ -25,21 +25,22 @@ About me:
 ### 💼 Hard Skills and Tools
 
 <p align="left"> 
-  <img src="https://img.icons8.com/color/48/000000/flutter.png" alt="flutter"/>
-  <img src="https://img.icons8.com/color/48/000000/dart.png" alt="dart"/>
    <img src="https://icongr.am/devicon/python-original.svg?size=48&color=currentColor" alt="Python"/> 
   <img src="https://icongr.am/devicon/javascript-original.svg?size=40&color=currentColor" alt="JavaScript"/> 
   <img src="https://icongr.am/devicon/html5-original-wordmark.svg?size=48&color=currentColor" alt="HTML5"/> 
   <img src="https://icongr.am/devicon/css3-original-wordmark.svg?size=48&color=currentColor" alt="CSS3"/>
+  <img src="https://icongr.am/devicon/nodejs-original.svg?size=48&color=currentColor" alt="Nodejs"/>
+  <img src="https://icongr.am/devicon/typescript-original.svg?size=48&color=currentColor" alt="Typescript"/>
   <img src="https://icongr.am/devicon/postgresql-original.svg?size=48&color=currentColor" alt="Php"/> 
   <img src="https://icongr.am/devicon/github-original-wordmark.svg?size=48&color=currentColor" alt="Github"/> 
-  <img src="https://icongr.am/devicon/php-original.svg?size=48&color=currentColor" alt="php"/> 
   <img src="https://icongr.am/devicon/linkedin-original-wordmark.svg?size=48&color=currentColor" alt="linkedin"/>
 </p>
 
 ### ⭐ GitHub Stats 
 [![Dani El-Ayyass' github stats](https://github-readme-stats.vercel.app/api?username=warleyzee&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
+### 💥 Last Repositories
+  ✅ <a href="https://github.com/warleyzee/surfy_API">Surfy API<a/>
 
 ### 📫 How to reach me
 
