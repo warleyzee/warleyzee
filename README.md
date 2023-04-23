@@ -40,7 +40,7 @@ About me:
 [![Dani El-Ayyass' github stats](https://github-readme-stats.vercel.app/api?username=warleyzee&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 💥 Last Repositories
-  ✅ <a href="https://github.com/warleyzee/surfy_API">Surfy API/<a>
+  ✅ <a href="https://github.com/warleyzee/surfy_API">Surfy API</a><br>
   ✅ <a href ="https://github.com/warleyzee/Udemy_Curse"> Udemy_Curse</a>
 
 ### 📫 How to reach me
