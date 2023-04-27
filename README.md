@@ -3,7 +3,7 @@
 ![](https://img.shields.io/github/stars/warleyzee?style=social)<br>
 
 
-# 👨🏽‍💻 Warley Henrique 👨🏽‍💻
+## 👨🏽‍💻 Warley Henrique 👨🏽‍💻
 [![Linkedin: warley-henrique-82b0b3117](https://img.shields.io/badge/-Warley%20Henrique-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/warley-henrique-82b0b3117/)](https://www.linkedin.com/in/warley-henrique-82b0b3117/)
 
 Nice to meet you, I'm Warley Henrique.
@@ -40,8 +40,10 @@ About me:
 [![Dani El-Ayyass' github stats](https://github-readme-stats.vercel.app/api?username=warleyzee&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 💥 Last Repositories
-  ✅ <a href="https://github.com/warleyzee/surfy_API">Surfy API</a> 🌊<br> 
-  ✅ <a href ="https://github.com/warleyzee/Udemy_Curse"> Udemy_Curse</a> 📘 <br>
+  🌊 <a href="https://github.com/warleyzee/surfy_API">Surfy API</a> 
+      <br>
+      <br>
+  <img src="https://icongr.am/devicon/facebook-original.svg?size=18&color=currentColor"/>  <a href ="https://github.com/warleyzee/Facebook_Authenticator"> Facebook Authenticator</a> <br>
 
 ### 📫 How to reach me
 
