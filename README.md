@@ -40,13 +40,13 @@ About me:
 [![Dani El-Ayyass' github stats](https://github-readme-stats.vercel.app/api?username=warleyzee&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 💥 Last Repositories
-  ✅ <a href="https://github.com/warleyzee/surfy_API">Surfy API</a><br>
-  ✅ <a href ="https://github.com/warleyzee/Udemy_Curse"> Udemy_Curse</a>
+  ✅ <a href="https://github.com/warleyzee/surfy_API">Surfy API</a><br> 🌊
+  ✅ <a href ="https://github.com/warleyzee/Udemy_Curse"> Udemy_Curse</a> 📘
 
 ### 📫 How to reach me
 
 - :iphone:  Phone: +353 086 4560069 [Whatsapp](https://api.whatsapp.com/send?phone=3530864560069&text=Hi%20there!)
-- 👨 [LinkedIn](https://www.linkedin.com/in/dayyass/)
+- 👨 LinkedIn [LinkedIn](https://www.linkedin.com/in/dayyass/)
 - 📧 Email: warleyzee@hotmail.com
 - 📧 Email: warleyzee@gmail.com
 
